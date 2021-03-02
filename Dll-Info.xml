@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+  <Title name="Random Words" />
+  <Description value="Generates sudo-random strings of different types of words" />
+  <Version value="1.0.0" />
+</info>

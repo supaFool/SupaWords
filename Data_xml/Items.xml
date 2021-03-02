@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Items>
+
+	<!--ARMOUR START*******************************************************************************************************
+	Armour is considered by Pillage(r) to be any item that can be "Put-On"-->
+	<ArmourItem tip="Any item that can be 'put on' should be in this node">
+		<Armour name="Name of the Armour">
+
+			<MinLevel min="set to '0' for no min req's" />
+
+			<ArmourEffect skill="Skill that the armour effects">
+				<!--value as to which the affect will be on the skill, use minus (-) sign in front of number for debuff-->
+			</ArmourEffect>
+		</Armour>
+	</ArmourItem>
+
+	<!---->
+</Items>
